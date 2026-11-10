@@ -1,0 +1,4 @@
+chmod +x install_party .sh
+chmod +x test_install.sh
+./test_install.sh
+./install_party.sh
